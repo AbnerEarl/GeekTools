@@ -32,7 +32,7 @@ jar包一旦获取，后期完善或增加新功能可免费发放给已购买�
 
 部分介绍：https://blog.csdn.net/u014374009/article/details/104668794
 
-2）告白模版源码： jar包：20元 ；加调试及演示：30元；
+2）告白模版源码： 网站系统：20元 ；加调试及演示：30元；
 
 部分介绍：https://blog.csdn.net/u014374009/article/details/104323483
 
@@ -54,4 +54,15 @@ jar包一旦获取，后期完善或增加新功能可免费发放给已购买�
 
 如发现以上内容有需要，可与作者及时沟通。
 
+### 6、其它说明
+独立的功能 jar 包，不定时增加和更新，有需要的可以进行项目关注。
 
+### 7、消息通知
+通过以下地址发布对应的jar版本更新通知，和新的独立的功能 jar 包。
+
+[点击传送](https://github.com/YouAreOnlyOne/GeekTools/wiki)
+
+### 8、问题建议
+如您有什么问题或者建议，可到下面的地址选择 “New issues” 进行提问，或者查看已经有相似的问题。
+
+[点击传送](https://github.com/YouAreOnlyOne/GeekTools/issues)
