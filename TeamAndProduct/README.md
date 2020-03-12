@@ -66,3 +66,10 @@ jar包一旦获取，后期完善或增加新功能可免费发放给已购买�
 如您有什么问题或者建议，可到下面的地址选择 “New issues” 进行提问，或者查看已经有相似的问题。
 
 [点击传送](https://github.com/YouAreOnlyOne/GeekTools/issues)
+
+### 9、功能体验
+
+体验地址：https://github.com/YouAreOnlyOne/FastFrameJar
+
+功能体验区放置的是可用的jar包，但是里面的jar包没有全部的功能，也不是最新的版本。
+
