@@ -46,7 +46,7 @@ http://www.52014991.xyz/contact.html
 ![image](https://img-blog.csdnimg.cn/20200215095954149.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQzNzQwMDk=,size_16,color_FFFFFF,t_70)
 
 
-2、通过扫描上面地址的二维码，输入对应的价格，备注邮箱和名称，片刻之后就会收到相关jar包；如果不想动手自己运行调试的，只需要扫描上面的二维码，输入不同的价格，备注邮箱和名称，片刻之后就会收到源码+远程调试运行完成。
+2、通过扫描上面地址的二维码，输入对应的价格，**备注邮箱和资源名称或者付完之后私聊作者**，片刻之后就会收到相关jar包或相关资源；如果不想动手自己运行调试的，只需要扫描上面的二维码，输入不同的价格，备注邮箱和名称，片刻之后就会收到源码和资源+远程调试运行完成。
 
 
 ### 4、独立jar包：
@@ -88,6 +88,14 @@ http://www.52014991.xyz/contact.html
 2）基于人脸识别的相册和时钟模版源码： 网站系统：20元；加开发工具包：30元；加调试及演示：50元；
 
 部分介绍：https://blog.csdn.net/u014374009/article/details/104976000
+
+3）深度学习入门之模型训练到移植使用全过程。 全套源码+全套文档资料+全套学习资料：80元；加调试及演示：120元；
+
+通过Keras和tesorflow简单的几行代码，训练自己需要的模型，实现图像识别。包含数据集处理、模型训练、模型测试、模型查看、模型转换、模型迁移等等。Android实现智能识别，把Keras或Tensorflow训练的深度学习模型移植到Android上进行使用。
+
+部分介绍：https://blog.csdn.net/u014374009/article/details/108762194
+
+
 
 ### 6、技术预览
 
