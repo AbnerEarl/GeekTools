@@ -38,6 +38,8 @@ http://www.52014991.xyz/contact.html
 
 1、服务方式，可通过扫描下面两种方式进行获取。
 
+备注：如果下方二维码因为网络原因无法正确加载，可通过 支付宝或者微信 进行转或加 ：18140650917
+
 ![image](https://github.com/YouAreOnlyOne/SmartBookmark/blob/master/img/alipay.png)
 ![image](https://github.com/YouAreOnlyOne/SmartBookmark/blob/master/img/wechat.png)
 
