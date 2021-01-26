@@ -26,7 +26,7 @@ http://www.52014991.xyz/contact.html
 
 ### 1、软件定制
 
-根据需求而定，微信沟通：ysys0451
+根据需求而定，微信沟通：ws52014991
 
 ### 2、远程服务
 根据已有的功能，进行环境部署，并把相关的功能进行调式和运行效果展示，需要请作者喝一杯咖啡，30元/个。
@@ -38,7 +38,7 @@ http://www.52014991.xyz/contact.html
 
 1、服务方式，可通过扫描下面两种方式进行获取。
 
-备注：如果下方二维码因为网络原因无法正确加载，可通过 支付宝或者微信 进行转或加 ：18140650917
+备注：如果下方二维码因为网络原因无法正确加载，可通过 微信 进行转或加 ：ws52014991
 
 ![image](https://github.com/YouAreOnlyOne/SmartBookmark/blob/master/img/alipay.png)
 ![image](https://github.com/YouAreOnlyOne/SmartBookmark/blob/master/img/wechat.png)
